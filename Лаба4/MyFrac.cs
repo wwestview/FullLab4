@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace llblbl
+namespace llblbl   
 {
-	struct MyFrac
+	public struct MyFrac
 	{
 		public long nom, denom;
 		public MyFrac(long nom_, long denom_)
